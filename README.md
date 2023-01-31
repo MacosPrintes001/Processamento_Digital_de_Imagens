@@ -25,7 +25,7 @@ pip install matplotlib
 pip install opencv-python
 ```
 
-## 🚀 Inicie o aplicativo
+## 🚀 Inicie o Repo
 
 Apos concluir todas as etapas anteriores entre no arquivo desejado e de um run:
 
