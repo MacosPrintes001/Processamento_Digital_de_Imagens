@@ -1,0 +1,4 @@
+pip install matplotlib
+pip install opencv-contrib-python
+pip install opencv-python
+https://docs.opencv.org/4.x/dc/d6b/group__tracking__legacy.html
